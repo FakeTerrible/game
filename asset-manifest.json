@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/game.git/static/css/main.f57c0812.chunk.css",
+    "main.js": "/game.git/static/js/main.24cee853.chunk.js",
+    "main.js.map": "/game.git/static/js/main.24cee853.chunk.js.map",
+    "runtime-main.js": "/game.git/static/js/runtime-main.d311efb5.js",
+    "runtime-main.js.map": "/game.git/static/js/runtime-main.d311efb5.js.map",
+    "static/js/2.aba61341.chunk.js": "/game.git/static/js/2.aba61341.chunk.js",
+    "static/js/2.aba61341.chunk.js.map": "/game.git/static/js/2.aba61341.chunk.js.map",
+    "index.html": "/game.git/index.html",
+    "static/css/main.f57c0812.chunk.css.map": "/game.git/static/css/main.f57c0812.chunk.css.map",
+    "static/js/2.aba61341.chunk.js.LICENSE.txt": "/game.git/static/js/2.aba61341.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d311efb5.js",
+    "static/js/2.aba61341.chunk.js",
+    "static/css/main.f57c0812.chunk.css",
+    "static/js/main.24cee853.chunk.js"
+  ]
+}
